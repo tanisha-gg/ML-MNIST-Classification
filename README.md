@@ -4,7 +4,7 @@ This repository contains implementations of a **Variational Autoencoder (VAE)** 
 
 ## Requirements
 - Python 3.8+
-- Install dependencies: `pip install -r requirements.txt`
+- Install dependencies: Torch, NumPy
 
 ---
 
